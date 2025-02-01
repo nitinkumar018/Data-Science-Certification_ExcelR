@@ -5,3 +5,5 @@
 # Successful completion of 12 projects: (https://github.com/nitinkumar018/Data-Science-Projects)
 # Model Deployment: (https://github.com/nitinkumar018/Model-Deployment)
 # Assignments: (https://github.com/nitinkumar018/Data-Science-Assignments)
+
+# Additional certifications: Rasa Developer, python, data scientist's toolbox, R Programming (https://github.com/nitinkumar018/Certifications)
