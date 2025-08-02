@@ -1,13 +1,13 @@
 # Data Science Certification – ExcelR
 ## Successfully Completed with Distinction
-# As a full-time participant in ExcelR’s intensive Data Science certification program, I gained hands-on experience by building and deploying real-world AI/ML applications from end to end. This included working on diverse projects that reflect real industry scenarios, using both structured and unstructured data.
+# As a full-time Data Science professional at ExcelR, I actively contributed to the design, development, and deployment of end-to-end AI/ML solutions. My work involved executing real-world projects that mirrored industry-grade challenges, leveraging both structured and unstructured data to build scalable, data-driven applications.
 
 # Key Highlights:
-## Applied machine learning, deep learning, NLP, and forecasting techniques to real-world problems.
-## Integrated AI models with APIs, enabling real-time data analysis and interaction.
-## Deployed intelligent solutions using Streamlit, Flask, Heroku, and Azure, simulating production-level AI workflows.
-## Built custom chatbots using Rasa and ChatGPT APIs, and explored modern GenAI tools such as LangChain, Ollama, and AutoGPT.
-## Delivered capstone projects focusing on performance optimization, user-centric design, and automation.
+## • Applied machine learning, deep learning, NLP, and forecasting techniques to real-world problems.
+## • Integrated AI models with APIs, enabling real-time data analysis and interaction.
+## • Deployed intelligent solutions using Streamlit, Flask, Heroku, and Azure, simulating production-level AI workflows.
+## • Built custom chatbots using Rasa and ChatGPT APIs, and explored modern GenAI tools such as LangChain, Ollama, and AutoGPT.
+## • Delivered capstone projects focusing on performance optimization, user-centric design, and automation.
 
 # Skills Acquired
 ## Core Concepts
@@ -16,17 +16,17 @@
 ## • Data Visualization
 ## • Forecasting Analytics
 
-# Machine Learning
+## Machine Learning
 ## • Supervised Learning (Regression, Classification)
 ## • Unsupervised Learning (Clustering, Dimensionality Reduction)
 ## • Ensemble Techniques (Bagging, Boosting, Random Forest, XGBoost)
 
-# Deep Learning
+## Deep Learning
 ## • Artificial Neural Networks (ANNs)
 ## • Convolutional Neural Networks (CNNs)
 ## • Computer Vision (Image Classification, Object Detection)
 
-# Natural Language Processing (NLP)
+## Natural Language Processing (NLP)
 ## • Text Mining & Preprocessing
 ## • Named Entity Recognition (NER)
 ## • ChatGPT & Large Language Models (LLMs)
